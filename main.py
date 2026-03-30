@@ -51,7 +51,7 @@ class DiscordTokenChecker:
 {Fore.LIGHTCYAN_EX}║  ╚═════╝ ╚═╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝        ║
 {Fore.LIGHTCYAN_EX}║                                                               ║
 {Fore.LIGHTCYAN_EX}║              {Fore.LIGHTMAGENTA_EX}TOKEN CHECKER - Made by rocky._.dev {Fore.LIGHTCYAN_EX}              ║
-{Fore.LIGHTCYAN_EX}║                  {Fore.WHITE}Professional Edition v3.0{Fore.LIGHTCYAN_EX}                   ║
+{Fore.LIGHTCYAN_EX}║          {Fore.WHITE}By rocky._.dev to fuck market{Fore.LIGHTCYAN_EX}               ║
 {Fore.LIGHTCYAN_EX}║                                                               ║
 {Fore.LIGHTCYAN_EX}╚═══════════════════════════════════════════════════════════════╝{Style.RESET_ALL}
         """
@@ -465,7 +465,7 @@ class DiscordTokenChecker:
         print(f"{Fore.LIGHTCYAN_EX}║{Fore.WHITE}  {Fore.LIGHTMAGENTA_EX}👑 Premium HQ:{' ' * 12}{Fore.YELLOW}{len(self.results['premium_hq']):>4}{Fore.WHITE} tokens             {Fore.LIGHTCYAN_EX}║{Style.RESET_ALL}")
         
         print(f"{Fore.LIGHTCYAN_EX}╚═══════════════════════════════════════════════════════════════╝{Style.RESET_ALL}")
-        print(f"\n{Fore.LIGHTMAGENTA_EX}Made with ♥ by rocky._.dev | Professional Edition v3.0{Style.RESET_ALL}\n")
+        print(f"\n{Fore.LIGHTMAGENTA_EX}Made with ♥ by rocky._.dev to fuck market{Style.RESET_ALL}\n")
 
 if __name__ == '__main__':
     checker = DiscordTokenChecker()
