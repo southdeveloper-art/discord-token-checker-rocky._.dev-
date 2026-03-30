@@ -11,8 +11,7 @@
 ╚═════╝ ╚═╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ 
 ```
 
-**Professional Discord Token Checker — v3.0**  
-Made with ♥ by **rocky._.dev**
+**Professional Discord Token Checker — By rocky._.dev to fuck market**
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
 ![Version](https://img.shields.io/badge/Version-3.0-purple?style=for-the-badge)
